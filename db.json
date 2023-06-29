@@ -1,0 +1,44 @@
+{
+    "users": [
+      {
+        "name": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin",
+        "confirmPassword": "admin",
+        "gender": "male",
+        "dateOfBirth": "0000-00-00",
+        "agreeToPrivacyPolicy": true,
+        "role": "admin",
+        "id": 1
+      },
+      {
+        "name": "kirill",
+        "email": "kirill@gmail.com",
+        "password": "kirill123",
+        "confirmPassword": "kirill123",
+        "gender": "male",
+        "dateOfBirth": "2023-01-31",
+        "agreeToPrivacyPolicy": true,
+        "role": "user",
+        "id": 2
+      }
+    ],
+    "chats": [
+      {
+        "title": "Экстренная помощь",
+        "description": "Тут вы можете напрямую попросить о помощи и вам моментально ответят",
+        "id": 1
+      },
+      {
+        "title": "Агорафобия",
+        "description": "Боязнь открытых пространств",
+        "id": 2
+      },
+      {
+        "title": "Антропофобия",
+        "description": "Боязнь людей, толпы",
+        "id": 3
+      }
+    ],
+    "messages": []
+  }
